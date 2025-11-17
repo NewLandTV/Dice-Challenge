@@ -4,6 +4,8 @@ Challenge to Dice!
 
 주사위를 향해 도전!
 
+[![Development Note p.286](https://img.youtube.com/vi/CaC0zyoVUyM/0.jpg)](https://www.youtube.com/watch?v=CaC0zyoVUyM)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
